@@ -1,0 +1,23 @@
+a {
+background-color: red;
+  box-shadow: 0 5px 0 darkred;
+  color: white;
+  padding: .3em 1.5em;
+  position: relative;
+  text-decoration: none;
+  
+  font-style: bold;
+}
+
+a:hover {
+  background-color: #ce0606;
+  cursor: pointer;
+}
+
+a:active {
+  box-shadow: none;
+  top: 5px;
+}
+
+/* Non-Demo Styles */
+ 
